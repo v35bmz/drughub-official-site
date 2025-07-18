@@ -24,3 +24,5 @@ If you’re looking to explore everything this darknet marketplace has to offer,
 
 <a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/branding/file.webp" alt="image" style="max-width: 100%;"><a>  
 <a href="http://7srgawrj4hyjbnrnfhkewds4iu4fu6poypbyap6gwptcasnpwzgjjyyd.onion"><img src="/branding/chart.webp" alt="image" style="max-width: 100%;"><a>
+
+Update:  07/18/2025 Route fixes
